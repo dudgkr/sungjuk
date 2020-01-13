@@ -1,12 +1,6 @@
 test three
 kor = ?
-eng = slfh
+eng = ?
 mat = ?
-fsf
-sadf
-sa
 
-fsa
-fdsa
-d
-fafd
+skt
