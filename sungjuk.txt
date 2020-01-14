@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 one
 two
 three
-=======
-one
->>>>>>> parent of 63550f6... two
