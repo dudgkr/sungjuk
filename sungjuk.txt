@@ -1,6 +1,1 @@
-test three
-kor = ?
-eng = ?
-mat = ?
-
-skt
+one
